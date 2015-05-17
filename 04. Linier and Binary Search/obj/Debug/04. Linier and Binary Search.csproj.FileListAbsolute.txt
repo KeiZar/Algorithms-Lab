@@ -1,0 +1,6 @@
+D:\Practice\Lab Practice - Algorithms\04. Linier and Binary Search\bin\Debug\_04.Linier_and_Binary_Search.exe.config
+D:\Practice\Lab Practice - Algorithms\04. Linier and Binary Search\obj\Debug\04. Linier and Binary Search.csprojResolveAssemblyReference.cache
+D:\Practice\Lab Practice - Algorithms\04. Linier and Binary Search\bin\Debug\_04.Linier_and_Binary_Search.exe
+D:\Practice\Lab Practice - Algorithms\04. Linier and Binary Search\bin\Debug\_04.Linier_and_Binary_Search.pdb
+D:\Practice\Lab Practice - Algorithms\04. Linier and Binary Search\obj\Debug\_04.Linier_and_Binary_Search.exe
+D:\Practice\Lab Practice - Algorithms\04. Linier and Binary Search\obj\Debug\_04.Linier_and_Binary_Search.pdb

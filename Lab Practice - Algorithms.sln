@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Prime Factorials", "01. Prime Factorials\01. Prime Factorials.csproj", "{A2303C8C-EB0E-4057-9AA1-78DF9F6E0D6A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. The Sieve of Eratosthenes", "02. The Sieve of Eratosthenes\02. The Sieve of Eratosthenes.csproj", "{B187328D-AFED-4FC6-A8E0-E302AC385A0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Insertion Sort", "03. Insertion Sort\03. Insertion Sort.csproj", "{7AB17F9D-9410-4302-A5F4-E256B05F9407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Linier and Binary Search", "04. Linier and Binary Search\04. Linier and Binary Search.csproj", "{9F20DE4E-47E4-4434-8E95-CAE3223641CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Largest Rectangle", "05. Largest Rectangle\05. Largest Rectangle.csproj", "{0F9106FC-4556-4D06-B735-6DB9C1869B7F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2303C8C-EB0E-4057-9AA1-78DF9F6E0D6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2303C8C-EB0E-4057-9AA1-78DF9F6E0D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2303C8C-EB0E-4057-9AA1-78DF9F6E0D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2303C8C-EB0E-4057-9AA1-78DF9F6E0D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B187328D-AFED-4FC6-A8E0-E302AC385A0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B187328D-AFED-4FC6-A8E0-E302AC385A0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B187328D-AFED-4FC6-A8E0-E302AC385A0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B187328D-AFED-4FC6-A8E0-E302AC385A0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AB17F9D-9410-4302-A5F4-E256B05F9407}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AB17F9D-9410-4302-A5F4-E256B05F9407}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AB17F9D-9410-4302-A5F4-E256B05F9407}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AB17F9D-9410-4302-A5F4-E256B05F9407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F20DE4E-47E4-4434-8E95-CAE3223641CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F20DE4E-47E4-4434-8E95-CAE3223641CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F20DE4E-47E4-4434-8E95-CAE3223641CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F20DE4E-47E4-4434-8E95-CAE3223641CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F9106FC-4556-4D06-B735-6DB9C1869B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F9106FC-4556-4D06-B735-6DB9C1869B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F9106FC-4556-4D06-B735-6DB9C1869B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F9106FC-4556-4D06-B735-6DB9C1869B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

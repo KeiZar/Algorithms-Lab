@@ -1,0 +1,5 @@
+D:\Practice\Lab Practice - Algorithms\03. Insertion Sort\bin\Debug\_03.Insertion_Sort.exe.config
+D:\Practice\Lab Practice - Algorithms\03. Insertion Sort\bin\Debug\_03.Insertion_Sort.exe
+D:\Practice\Lab Practice - Algorithms\03. Insertion Sort\bin\Debug\_03.Insertion_Sort.pdb
+D:\Practice\Lab Practice - Algorithms\03. Insertion Sort\obj\Debug\_03.Insertion_Sort.exe
+D:\Practice\Lab Practice - Algorithms\03. Insertion Sort\obj\Debug\_03.Insertion_Sort.pdb

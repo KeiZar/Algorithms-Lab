@@ -1,0 +1,6 @@
+D:\Practice\Lab Practice - Algorithms\01. Prime Factorials\bin\Debug\_01.Prime_Factorials.exe.config
+D:\Practice\Lab Practice - Algorithms\01. Prime Factorials\bin\Debug\_01.Prime_Factorials.exe
+D:\Practice\Lab Practice - Algorithms\01. Prime Factorials\bin\Debug\_01.Prime_Factorials.pdb
+D:\Practice\Lab Practice - Algorithms\01. Prime Factorials\obj\Debug\01. Prime Factorials.csprojResolveAssemblyReference.cache
+D:\Practice\Lab Practice - Algorithms\01. Prime Factorials\obj\Debug\_01.Prime_Factorials.exe
+D:\Practice\Lab Practice - Algorithms\01. Prime Factorials\obj\Debug\_01.Prime_Factorials.pdb

@@ -1,0 +1,6 @@
+D:\Practice\Lab Practice - Algorithms\05. Largest Rectangle\bin\Debug\_05.Largest_Rectangle.exe.config
+D:\Practice\Lab Practice - Algorithms\05. Largest Rectangle\bin\Debug\_05.Largest_Rectangle.exe
+D:\Practice\Lab Practice - Algorithms\05. Largest Rectangle\bin\Debug\_05.Largest_Rectangle.pdb
+D:\Practice\Lab Practice - Algorithms\05. Largest Rectangle\obj\Debug\05. Largest Rectangle.csprojResolveAssemblyReference.cache
+D:\Practice\Lab Practice - Algorithms\05. Largest Rectangle\obj\Debug\_05.Largest_Rectangle.exe
+D:\Practice\Lab Practice - Algorithms\05. Largest Rectangle\obj\Debug\_05.Largest_Rectangle.pdb

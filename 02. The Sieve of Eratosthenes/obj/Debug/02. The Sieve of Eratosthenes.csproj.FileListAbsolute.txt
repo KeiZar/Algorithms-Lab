@@ -1,0 +1,6 @@
+D:\Practice\Lab Practice - Algorithms\02. The Sieve of Eratosthenes\bin\Debug\_02.The_Sieve_of_Eratosthenes.exe.config
+D:\Practice\Lab Practice - Algorithms\02. The Sieve of Eratosthenes\bin\Debug\_02.The_Sieve_of_Eratosthenes.exe
+D:\Practice\Lab Practice - Algorithms\02. The Sieve of Eratosthenes\bin\Debug\_02.The_Sieve_of_Eratosthenes.pdb
+D:\Practice\Lab Practice - Algorithms\02. The Sieve of Eratosthenes\obj\Debug\02. The Sieve of Eratosthenes.csprojResolveAssemblyReference.cache
+D:\Practice\Lab Practice - Algorithms\02. The Sieve of Eratosthenes\obj\Debug\_02.The_Sieve_of_Eratosthenes.exe
+D:\Practice\Lab Practice - Algorithms\02. The Sieve of Eratosthenes\obj\Debug\_02.The_Sieve_of_Eratosthenes.pdb
